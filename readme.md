@@ -10,6 +10,12 @@ In terms of contents, started with what i want in each section and added my flav
 
 
 ## BUILD PROCESS
+I had a initial sketch of what i want my website to be below:
+![Home page](https://github.com/iankhor/iankhor.github.io/blob/master/reference/initial%20sketch.jpg)
+
+I further gotten inspiration on the style of my website from several of the following images:
+![Home page](https://github.com/iankhor/iankhor.github.io/blob/master/reference/inspiration.png)
+
 - sketches/pictures
 - started with pure css
 - assisted by bootstrap
