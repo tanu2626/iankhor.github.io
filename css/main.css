@@ -2,7 +2,7 @@
 see marking requirements
 robots
 crawler
-banner links not working when screen resized.
+banner links not working when screen resized. To be fixed in phase 2
 
 
 */
@@ -30,7 +30,7 @@ h1:after {
 
 .navbar-default {
   background : transparent;
-  background-color: rgba(192,192,192,0.5);
+  background-color: rgba(192,192,192,0.75);
   border: none;
 }
 
