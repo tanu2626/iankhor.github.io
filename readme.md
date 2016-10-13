@@ -39,6 +39,7 @@ In terms of contents, started with what i want in each section and added my flav
 ## FUTURE IMPROVEMENTS / TODO
 -Slide out navbar for mobile
 -Contact form section
+- fixed navbar media query to display IAN KHOR brand on left of bar
 
 ## LIVE
 https://iankhor.github.io

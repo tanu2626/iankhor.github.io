@@ -67,10 +67,8 @@ h1:after {
 }
 
 .mainheader-container {
-  background-color: red;
   background-image: url("../images/mainheader.jpg");
   background-size: cover;
-  /*background-position: center;*/
   background-position: right;
   width: 100%;
   height: 400px;
@@ -412,8 +410,8 @@ h1:after {
 }
 
 /*Media query*/
-@media screen and (min-device-width:300px) {
+/*@media screen and (min-device-width:300px) {
     .mainheader-container {
       height: 500px;
     }
-}
+}*/
