@@ -52,7 +52,7 @@ Metatags and a sitemap was added
 
 ## SPECIAL EFFECTS TO OBSERVE
 1. Navbar when using a small screen (ie: mobile)
-2. In the "Saving the world" section which desribes my past projects, hover over the images to see transitions
+2. In the "Saving the world" section which describe my past projects, hover over the images to see transitions
 3. Parallax effects
 4. Elements wrap around when using small screen (ie: mobile)
 5. On the top of the page, text shadow was added to further highlight my name when the white text is hovering over my shirt on a small screen.
@@ -72,7 +72,9 @@ Metatags and a sitemap was added
 1. Slide out (from the side) Navbar for mobile
 2. Contact form section
 3. Personal logo design brand when user scrolls pass the top section.
-4. Separate page for all prior projects.
+4. Separate page for all prior projects
+5. To review on the "superhero theme" and get a balance between personality and content
+of what I want to present to the audience
 
 ## LIVE
 https://iankhor.github.io
