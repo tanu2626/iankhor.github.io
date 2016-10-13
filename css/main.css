@@ -410,3 +410,10 @@ h1:after {
   -ms-transform: scale(1);
   transform: scale(1);
 }
+
+/*Media query*/
+@media screen and (min-device-width:300px) {
+    .mainheader-container {
+      height: 500px;
+    }
+}

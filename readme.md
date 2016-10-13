@@ -27,11 +27,6 @@ In terms of contents, started with what i want in each section and added my flav
 
 ### CONTACT ME
 
-##things to note
-- hover
-- responsive navbar
-- parallax
-
 ## TOOLS USED
 - Pen and paper
 - Figma
