@@ -20,12 +20,17 @@ In terms of contents, started with what i want in each section and added my flav
 ### LANDING ()
 
 ### ABOUT ME (TITLED : ORIGINS)
+shadow added
 
 ### SKILLS (TITLED : SUPERPOWERS)
 
 ### PROJECTS (TITLED : SAVING THE WORLD)
+transitions
 
 ### CONTACT ME
+
+### OTHERS
+parallax
 
 ## TOOLS USED
 - Pen and paper

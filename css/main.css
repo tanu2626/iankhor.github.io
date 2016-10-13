@@ -102,11 +102,13 @@ h1:after {
 
 .mainheader-name {
   font-size: 130px;
+  text-shadow: 2px 2px 5px #000000;
 }
 
 .mainheader-title {
   font-size: 25px;
   font-weight: 300;
+  text-shadow: 2px 2px 5px #000000;
 
 }
 
