@@ -1,4 +1,4 @@
-##  AIM , THOUGHT PROCESS & INFLUENCE
+##   MY AIM , THOUGHT PROCESS & INFLUENCE
 My aim was to create a 'clean' and 'simple' one pager to quickly introduce myself to the reader.
 My initial thought process was to start from a blank canvas and add elements to it.
 
